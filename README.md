@@ -1,16 +1,12 @@
-<div align="center">
-  <img src="https://via.placeholder.com/150?text=OpenFilms+Logo" alt="OpenFilms Logo" width="150" height="150">
-  
-  # 🎬 OpenFilms
-  
-  **Удобный и современный плеер для просмотра фильмов, созданный на базе Electron.**
+# OpenFilms
+
+**Удобный и современный плеер для просмотра фильмов, созданный на базе Electron.**
   
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#)
   [![Electron](https://img.shields.io/badge/Electron-Latest-9cf.svg)](https://electronjs.org/)
   
-  [Особенности](#-особенности) • [Установка](#-установка) • [Разработка](#-разработка) • [Скриншоты](#-скриншоты)
-</div>
+[Особенности](#-особенности) • [Установка](#-установка) • [Разработка](#-разработка) • [Скриншоты](#-скриншоты)
 
 ---
 
@@ -49,7 +45,7 @@
 
 4. **Запустите приложение:**
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 🛠 Разработка
@@ -67,11 +63,7 @@
 
 ## 📸 Скриншоты
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x450?text=App+Screenshot" alt="Скриншот приложения" width="800">
-  <br>
-  <em>Главный экран приложения (заглушка)</em>
-</div>
+*(Скриншоты временно удалены)*
 
 ## 📄 Лицензия
 
@@ -81,3 +73,7 @@
 <div align="center">
   Сделано с ❤️ для любителей кино.
 </div>
+
+> [!WARNING]  
+> **Пиратство — это плохо.** 
+> В первую очередь уважайте труд авторов и создателей контента. Поддерживайте их материально, используя легальные кинотеатры и стриминговые сервисы. Данный проект создавался исключительно в образовательных целях.

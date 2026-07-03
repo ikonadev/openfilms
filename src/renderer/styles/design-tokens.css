@@ -1,0 +1,31 @@
+:root {
+  /* Core Colors (Inspired by banner.png) */
+  --bg-base: #080e1e;
+  --bg-surface: #0b142d;
+  --bg-surface-glass: rgba(11, 20, 45, 0.65);
+  
+  --accent-primary: #2361fd; /* Vibrant blue from banner */
+  --accent-secondary: #163594; /* Deep blue from banner */
+  --accent-glow: rgba(35, 97, 253, 0.4);
+
+  /* Typography */
+  --font-primary: 'Montserrat Alternates', system-ui, -apple-system, sans-serif;
+  --text-main: #ffffff;
+  --text-muted: #8b98b0;
+  
+  /* Layout & Styling */
+  --border-light: rgba(255, 255, 255, 0.08);
+  --shadow-sm: 0 4px 6px rgba(0, 0, 0, 0.2);
+  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.4);
+  --shadow-glow: 0 0 20px var(--accent-glow);
+
+  /* Radii */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
