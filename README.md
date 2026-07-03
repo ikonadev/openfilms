@@ -1,4 +1,4 @@
-![Банер](Images/banner.png)
+![Банер](Image/banner.png)
 # OpenFilms
 
 **Удобный и современный плеер для просмотра фильмов, созданный на базе Electron.**
